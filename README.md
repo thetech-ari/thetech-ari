@@ -17,7 +17,8 @@ Hi! I’m Arianna (@thetech-ari) — a Computer Science student with a passion f
 ### 📫 Connect With Me
 - 📧 Email: thetech.ari@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/arianna-miller-paul-b057a6208)  
-- 🌟 [Portfolio](#) (coming soon)  
+- 🌟 [Portfolio](#) (coming soon)
+- 💬 Discord: thetech.ari  
 
 ### 🎉 Fun Facts
 - Pronouns: she/her🎀
