@@ -16,7 +16,7 @@ Hi! I’m Arianna (@thetech-ari) — a Computer Science student with a passion f
 
 ### 📫 Connect With Me
 - 📧 Email: thetech.ari@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/thetechari  
+- 💼 [LinkedIn](https://www.linkedin.com/in/thetechari)
 - 🌟 [Portfolio](#) (coming soon)
 - 💬 Discord: thetech.ari  
 
